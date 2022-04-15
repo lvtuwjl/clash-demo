@@ -1,2 +1,2 @@
 # clash-demo
-fuck clash
+copy clash
