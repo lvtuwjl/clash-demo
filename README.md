@@ -1,1 +1,2 @@
 # clash-demo
+fuck clash
